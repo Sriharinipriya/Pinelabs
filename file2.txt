@@ -2,4 +2,5 @@ This is my second file in git
 i am modifying the fiel
 
 THis is an at a time modification from notepad for conflict resolution
+Testin after it has been deleted from the remote repo
 
