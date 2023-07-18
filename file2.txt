@@ -1,3 +1,3 @@
 This is my second file in git
 i am modifying the fiel
-third modification
+THis is an at a time modification from notepad for conflict resolution
